@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Dog Days
 subtitle: ''
 date: '2020-12-14'
 excerpt: lorem-ipsum
