@@ -1,6 +1,6 @@
 ---
 title: lorem-ipsum
-subtitle: ''
+subtitle: Dog days!
 date: '2020-12-14'
 excerpt: lorem-ipsum
 hide_header: false
